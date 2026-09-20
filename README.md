@@ -1,4 +1,4 @@
-# Ashish K Sharma — Navya-style Portfolio
+# Ashish K Sharma — Portfolio
 
 This package is a close visual reimplementation of the portfolio style requested in the chat, adapted with Ashish K Sharma's content.
 
